@@ -1,0 +1,86 @@
+
+     #rectangulo {
+     width: 1000px;
+     height: 500px;
+     border: 3px solid #555;
+     background: #008000;
+     margin-left: 100px;
+     margin-top: 20px;
+  }
+
+   #rectangulob {
+   width: 950px;
+   height: 450px;
+   border: 3px solid #ffffff;
+   background: #008000;
+   margin-left: 20px;
+   margin-top: 20px;
+  }
+
+    .rectangulitop{
+    width: 150px;
+    height: 300px;
+    border: 3px solid #ffffff;
+    background: #008000;
+    margin-left: -2px;
+    margin-top: 80px;
+
+  }
+
+  .rectangulitoah{
+  width: 150px;
+  height: 300px;
+  border: 3px solid #ffffff;
+  background: #008000;
+  margin-left: 796px;
+  margin-top: -306px;
+}
+
+
+.circulo {
+     width: 130px;
+     height: 130px;
+     border: 7px solid #ffffff;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     margin-left: 433px;
+     margin-top: -230px;
+
+}
+
+.pelotitaest {
+     width: 15px;
+     height: 15px;
+     border: 7px solid #ffffff;
+     background: #ffffff;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+
+
+}
+
+.pelot1 {
+
+     margin-left: 127px;
+     margin-top: 75px;
+     position: absolute;
+
+}
+
+.pelot2 {
+
+     margin-left: 400px;
+     margin-top: 50px;
+     position: absolute;
+
+}
+
+.pelot3 {
+
+     margin-left: 770px;
+     margin-top: 357px;
+     position: absolute;
+
+}
